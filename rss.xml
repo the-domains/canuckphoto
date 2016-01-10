@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CanuckPhoto]]></title>
+        <description><![CDATA[CanuckPhoto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 18:34:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We're on The Grid!]]></title>
+            <description><![CDATA[<article><h1>We're on The Grid!</h1><p>It's taken more than a year, but I just got access to The Grid Beta! I've read a lot of mixed reviews from beta users, so I'm keeping my expectations in check, but I'm still very excited to see what it can do!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10d4fb9330b16e80f79a4f6aa3a076c2c1406cc.png"></article>]]></description>
+            <link>undefinedwere-on-the-grid/index.html</link>
+            <guid isPermaLink="false">0b100d8f-ccbe-4ae8-a9a0-f3581e31efd9</guid>
+            <pubDate>Sun, 10 Jan 2016 18:34:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
