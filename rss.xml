@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CanuckPhoto]]></title>
         <description><![CDATA[CanuckPhoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/canuckphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 18:34:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 18:34:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/canuckphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oh, Saskatchewan you are so pretty]]></title>
+            <description><![CDATA[<article><h1>Oh, Saskatchewan you are so pretty</h1><p>The beauty of our home is boundless. This fact has been extensively documented by amateur and professional photographers, videographers and astrophotographers alike. Here are some of the best, latest photographs that Saskatchewan people have shared with us during the first week of 2016!</p><img src="http://i.cbc.ca/1.3396029.1452286924!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ryan-starosta.jpg"></article>]]></description>
+            <link>http://www.cbc.ca/news/canada/saskatchewan/saskatchewa-you-are-so-pretty-1.3395984</link>
+            <guid isPermaLink="false">62737497-ec46-488f-bc83-012a6b584df4</guid>
+            <pubDate>Sun, 10 Jan 2016 18:34:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We're on The Grid!]]></title>
             <description><![CDATA[<article><h1>We're on The Grid!</h1><p>It's taken more than a year, but I just got access to The Grid Beta! I've read a lot of mixed reviews from beta users, so I'm keeping my expectations in check, but I'm still very excited to see what it can do!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10d4fb9330b16e80f79a4f6aa3a076c2c1406cc.png"></article>]]></description>
-            <link>undefinedwere-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/canuckphoto/were-on-the-grid/index.html</link>
             <guid isPermaLink="false">0b100d8f-ccbe-4ae8-a9a0-f3581e31efd9</guid>
             <pubDate>Sun, 10 Jan 2016 18:34:34 GMT</pubDate>
         </item>
