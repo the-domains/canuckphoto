@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-10T18:51:37.199Z'
-dateModified: '2016-01-10T18:51:25.509Z'
+description: "It's taken more than a year, but I just got access to The Grid Beta! I've read a lot of mixed reviews from beta users, so I'm keeping my expectations in check, but I'm still very excited to see what it can do!"
+datePublished: '2016-01-10T19:18:07.066Z'
+dateModified: '2016-01-10T19:17:55.657Z'
 title: "We're on The Grid!"
 author: []
 sourcePath: _posts/2016-01-10-were-on-the-grid.md
@@ -25,7 +25,7 @@ _type: Article
 # We're on The Grid!
 
 It's taken more than a year, but I just got access to [The Grid][0] Beta! I've read a lot of mixed reviews from beta users, so I'm keeping my expectations in check, but I'm still very excited to see what it can do!
-![The Grid Activated (caption (alt))](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ef597a-cbfd-4f02-b712-d9b64132b4c1.png)
+![The Grid Activated (caption (alt))](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10d4fb9330b16e80f79a4f6aa3a076c2c1406cc.png)
 
 Here's some more body text. The text above was not visible when this post was published for the first time. Let's see what happens if we add a few more paragraphs.
 
