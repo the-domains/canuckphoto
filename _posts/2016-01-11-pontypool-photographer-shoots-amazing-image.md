@@ -17,8 +17,8 @@ keywords:
   - createphotocalendars
   - '2016'
 description: "A Pontypool native who has photographed Canada's far north for the better part of a decade is aiming to capitalize on a photo he took that went viral late last month, generating an explosion of media attention."
-datePublished: '2016-01-11T21:42:04.718Z'
-dateModified: '2016-01-11T21:41:59.426Z'
+datePublished: '2016-01-11T21:45:49.509Z'
+dateModified: '2016-01-11T21:45:37.621Z'
 author: []
 related: []
 app_links: []
@@ -37,6 +37,6 @@ _type: MediaObject
 ---
 # 
 
-<article style=""><h1>Pontypool photographer's striking Arctic photo to be used in calendar</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87599da578b8ba92fdc9618d0b3261693843039.jpg" /></article>
+<article style=""><h1>Pontypool photographer's striking Arctic photo to be used in calendar</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4befe3dc900eaf0bfc1ff4e851841cd812463b02.jpg" /></article>
 
 A Pontypool native who has photographed Canada's far north for the better part of a decade is aiming to capitalize on a photo he took that went viral late last month, generating an explosion of media attention.
