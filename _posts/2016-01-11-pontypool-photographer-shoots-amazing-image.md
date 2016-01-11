@@ -17,8 +17,8 @@ keywords:
   - createphotocalendars
   - '2016'
 description: "A Pontypool native who has photographed Canada's far north for the better part of a decade is aiming to capitalize on a photo he took that went viral late last month, generating an explosion of media attention."
-datePublished: '2016-01-11T01:36:18.669Z'
-dateModified: '2016-01-11T01:35:36.049Z'
+datePublished: '2016-01-11T14:21:08.352Z'
+dateModified: '2016-01-11T03:06:47.185Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Pontypool photographer shoots amazing image</h1><p>Pontypool photographer shoots amazing image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ebb7544e0f33589fd7796a05e9b8e872f1e238.jpg" /></article>
+<article style=""><h1>Pontypool photographer shoots amazing image</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbb1e31cbad90689c98f229784247fc3e1cfe7c6.jpg" /></article>
 
 A Pontypool native who has photographed Canada's far north for the better part of a decade is aiming to capitalize on a photo he took that went viral late last month, generating an explosion of media attention.
