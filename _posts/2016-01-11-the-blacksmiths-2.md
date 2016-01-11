@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A personal photography project about blacksmiths and their craft.
-datePublished: '2016-01-11T03:30:37.797Z'
-dateModified: '2016-01-11T03:29:30.010Z'
+datePublished: '2016-01-11T04:39:50.675Z'
+dateModified: '2016-01-11T04:39:50.516Z'
 title: The Blacksmiths 2
 author: []
 sourcePath: _posts/2016-01-11-the-blacksmiths-2.md
