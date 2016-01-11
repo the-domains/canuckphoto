@@ -17,8 +17,8 @@ keywords:
   - beauty
   - piano
 description: 'The beauty of our home is boundless. This fact has been extensively documented by amateur and professional photographers, videographers and astrophotographers alike. Here are some of the best, latest photographs that Saskatchewan people have shared with us during the first week of 2016!'
-datePublished: '2016-01-10T19:18:27.299Z'
-dateModified: '2016-01-10T19:17:00.112Z'
+datePublished: '2016-01-11T20:07:37.294Z'
+dateModified: '2016-01-11T20:07:29.386Z'
 author: []
 related: []
 app_links: []
