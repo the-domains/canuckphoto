@@ -17,8 +17,8 @@ keywords:
   - snow
   - location
 description: Interview with Toronto photographer Richard Johnson about his ongoing project to photograph ice fishing huts across Canada.
-datePublished: '2016-01-11T20:00:31.720Z'
-dateModified: '2016-01-11T20:00:16.106Z'
+datePublished: '2016-01-11T20:14:46.497Z'
+dateModified: '2016-01-11T20:11:26.435Z'
 author:
   - name: Heidi Volpe
     url: 'http://aphotoeditor.com/author/hvolpe/'
@@ -39,6 +39,6 @@ _type: MediaObject
 
 ---
 # The Daily Edit: Richard Johnson Ice Huts / Modern Farmer
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e74c782c502465d85cfcec4b1d1bbb7b40060f21.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b03ea02b71c8dbddc501b7f9bf57dd4d2c2670b8.jpg)
 
 ## An interview with Toronto photographer Richard Johnson about his ongoing project to photograph ice fishing huts across Canada.
