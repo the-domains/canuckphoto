@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A personal photography project about blacksmiths and their craft.
-datePublished: '2016-01-11T20:36:13.451Z'
-dateModified: '2016-01-11T20:36:07.599Z'
+datePublished: '2016-01-12T18:52:55.680Z'
+dateModified: '2016-01-12T16:45:02.248Z'
 title: The Blacksmiths
 author: []
 sourcePath: _posts/2016-01-11-the-blacksmiths-2.md
@@ -26,7 +26,7 @@ _type: Article
 
 ### A personal photography project about blacksmiths and their craft.
 
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a16efe5-df34-4614-90f2-1bd0f8adc683.jpg)
+## ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/babfdce8a8cd58317f87903823c1f916a9326d97.jpg)
 
 My name is Dan Bannister and I'm a commercial photographer based in Toronto, Canada. My day to day photography work is mostly advertising and fashion for retail brands but I like to add variety to my photography and exercise my creative muscles by pursuing personal projects alongside my commercial work as much as I can.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe296b8-2a78-4041-9c77-398a22dafb12.jpg)
