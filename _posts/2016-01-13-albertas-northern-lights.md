@@ -16,8 +16,8 @@ keywords:
   - murray
   - aurora
 description: Two years and 6500+ photos of the Northern Lights over the Rockies of Southern Alberta.
-datePublished: '2016-01-13T23:07:16.501Z'
-dateModified: '2016-01-13T23:07:01.386Z'
+datePublished: '2016-01-13T23:10:00.038Z'
+dateModified: '2016-01-13T23:09:49.284Z'
 author:
   - name: Richard Gottardo
     url: 'https://www.youtube.com/user/rwgottar'
