@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A personal photography project about blacksmiths and their craft.
-datePublished: '2016-01-13T17:04:37.005Z'
-dateModified: '2016-01-13T17:04:30.677Z'
+datePublished: '2016-01-13T17:07:10.795Z'
+dateModified: '2016-01-13T17:06:58.246Z'
 title: The Blacksmiths
 author: []
 sourcePath: _posts/2016-01-11-the-blacksmiths-2.md
@@ -48,7 +48,7 @@ The project was shot in a somewhat simple fashion as many of the locations were 
 
 I also made a short video documentary in the shop of one Blacksmith which you can see on [Vimeo][0].
 
-About the author: Dan Bannister is a commercial photographer and director based in Toronto, Canada. You can find more of his work on[his website][1].
+_About the author: Dan Bannister is a commercial photographer and director based in Toronto, Canada. You can find more of his work on[his website][1]._
 
 [0]: https://vimeo.com/129811628
 [1]: http://www.danbannister.com/
