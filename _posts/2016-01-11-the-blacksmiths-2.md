@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A personal photography project about blacksmiths and their craft.
-datePublished: '2016-01-13T16:43:58.422Z'
-dateModified: '2016-01-13T16:43:48.064Z'
+datePublished: '2016-01-13T17:02:52.378Z'
+dateModified: '2016-01-13T17:02:45.477Z'
 title: The Blacksmiths
 author: []
 sourcePath: _posts/2016-01-11-the-blacksmiths-2.md
@@ -46,11 +46,9 @@ I originally thought I'd render the images in black and white, and I actually ha
 The project was shot in a somewhat simple fashion as many of the locations were somewhat limited for space. As well, I didn't want the subjects to be intimidated by setting up a lot of large complex lighting like I might for a commercial shoot so, I kept it simple by using one beauty dish.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e8a39cf-e335-41fc-8e66-7fee7bf16ff2.jpg)
 
-[The Blacksmith][0] from [Dan Bannister][1] on [Vimeo][2].
+I also made a short video documentary in the shop of one Blacksmith which you can see on [Vimeo][0].
 
-About the author: Dan Bannister is a commercial photographer and director based in Toronto, Canada. You can find more of his work on[his website][3].
+About the author: Dan Bannister is a commercial photographer and director based in Toronto, Canada. You can find more of his work on[his website][1].
 
-[0]: https://vimeo.com/129811628
-[1]: https://vimeo.com/user10799035
-[2]: https://vimeo.com/
-[3]: http://www.danbannister.com/
+[0]: https://vimeo.com/
+[1]: http://www.danbannister.com/
