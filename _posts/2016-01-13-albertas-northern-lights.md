@@ -16,8 +16,8 @@ keywords:
   - murray
   - aurora
 description: Two years and 6500+ photos of the Northern Lights over the Rockies of Southern Alberta.
-datePublished: '2016-01-13T23:04:17.767Z'
-dateModified: '2016-01-13T23:04:08.219Z'
+datePublished: '2016-01-13T23:07:16.501Z'
+dateModified: '2016-01-13T23:07:01.386Z'
 author:
   - name: Richard Gottardo
     url: 'https://www.youtube.com/user/rwgottar'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+# Alberta's Northern Lights
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyEhegvvXnfk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyEhegvvXnfk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyEhegvvXnfk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
 Watch this stunning time-lapse made up of more than 6500 photos of the Northern Lights over the Rockies of Southern Alberta.
