@@ -17,8 +17,8 @@ keywords:
   - photograph
   - winter
 description: 'Amanda Ubell and her camera have been busy this winter. The professional photographer, based in Unity, Sask. has some new neighbours this year. "I have seen more owls this year then I ever have before," wrote Ubell in a photo submission to CBC. "One has taken up residence at our farm!"'
-datePublished: '2016-01-13T15:13:32.310Z'
-dateModified: '2016-01-13T15:13:15.528Z'
+datePublished: '2016-01-13T15:15:08.480Z'
+dateModified: '2016-01-13T15:14:58.414Z'
 author: []
 related: []
 app_links: []
