@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:05:45.450Z'
-dateModified: '2016-01-15T21:05:36.030Z'
+datePublished: '2016-01-15T21:13:41.678Z'
+dateModified: '2016-01-15T21:13:30.172Z'
 title: Matt Barnes is up Schitt’s Creek... again.
 author: []
 sourcePath: _posts/2016-01-15-matt-barnes-is-up-schitts-creek-again.md
@@ -23,11 +23,13 @@ _type: Article
 
 ---
 # Matt Barnes is up Schitt's Creek... again.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/decadb7a38a433a44b3f9632fbe936a6f23be1ca.jpg)
 
 Toronto photographer Matt Barnes has once again found himself up Schitt's Creek.  No paddles necessary!  Matt was thrilled to be approached by media production company The Young Astronauts to reprise his role shooting promos for the second season of CBC's
-Schitt's Creek. As always, Matt delivered the goods. You may have some of these images plastered all over Toronto ramping up to next week's 
+Schitt's Creek. 
+
+As always, Matt delivered the goods. You may have some of these images plastered all over Toronto ramping up to next week's 
 season premier, but here they are in all of their glory!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d6d5483-78cd-451f-a341-a29cbc901a1b.jpg)
 ![Annie Murphy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/592066e4-8d9b-4b4e-a55e-29c2e9fcc1c9.jpg)
 ![Catherine O’Hara](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8ec106-54cf-4bb5-9bf4-0d84a5302c85.jpg)
 ![Chris Elliot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad0b50d2-e58c-4fb8-a561-ccf2176f85d9.jpg)
