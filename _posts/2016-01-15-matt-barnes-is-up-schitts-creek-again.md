@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T20:37:37.992Z'
-dateModified: '2016-01-15T20:37:28.806Z'
+datePublished: '2016-01-15T20:58:01.987Z'
+dateModified: '2016-01-15T20:57:50.084Z'
 title: Matt Barnes is up Schitt’s Creek.  Again.
 author: []
 sourcePath: _posts/2016-01-15-matt-barnes-is-up-schitts-creek-again.md
@@ -28,7 +28,7 @@ Toronto photographer Matt Barnes has once again found himself up Schitt's Creek.
 Schitt's Creek. As always, Matt delivered the goods.  I'm sure you've 
 seen bits of these plastered ALL OVER Toronto ramping up to next week's 
 season premier, but here they are in all of their glory!
-![Cast of Schitt’s Creek](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c37a04238740574aacf8e48b338acb7d7bc6c657.jpg)
+![Cast of Schitt’s Creek](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1483378d09f4665d44e1849b7f2da35338411b29.jpg)
 ![Annie Murphy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/592066e4-8d9b-4b4e-a55e-29c2e9fcc1c9.jpg)
 ![Catherine O’Hara](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8ec106-54cf-4bb5-9bf4-0d84a5302c85.jpg)
 ![Chris Elliot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad0b50d2-e58c-4fb8-a561-ccf2176f85d9.jpg)
