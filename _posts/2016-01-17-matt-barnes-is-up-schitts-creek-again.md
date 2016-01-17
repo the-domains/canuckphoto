@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:28:33.212Z'
-dateModified: '2016-01-17T01:28:31.562Z'
+datePublished: '2016-01-17T01:36:40.176Z'
+dateModified: '2016-01-17T01:36:31.737Z'
 title: "Matt Barnes is up Schitt's Creek... again."
 author: []
 sourcePath: _posts/2016-01-17-matt-barnes-is-up-schitts-creek-again.md
@@ -29,9 +29,9 @@ Toronto photographer Matt Barnes has once again found himself up Schitt's Creek.
 As always, Matt delivered the goods. You may have some of these images plastered all over Toronto ramping up to next week's season premier, but here they are in all of their glory! ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb3b79906126464c1d6a6cd1914cbe674bae443b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eea128d21f36f746e97c918ed1491d30823cad3c.jpg)
 ![Catherine O’Hara](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4389db08-f6c8-4216-a7cd-df89e9700d40.jpg)
-![Chris Elliot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3741f8b1-3f06-4e6e-8832-43afa593f814.jpg)
-![Dan Levy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1175d73d-c552-4d59-aa66-4b8c9bc0065c.jpg)
-![Eugene Levy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/978c48f7-2507-44da-a5fb-e97980944846.jpg)
+![Chris Elliot](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c8c2dcace9a56be6a7c0ddf74a870e301347f4f.jpg)
+![Dan Levy](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b8e5f051cb719f8570f8c5f993dc089869d2d0.jpg)
+![Eugene Levy](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85c6f86e0c7981787b69585724a8a403c7a5060e.jpg)
 
 Photographer: Matt Barnes   
 Photography Producer: Natalie D'Urbano  
@@ -39,9 +39,9 @@ Agency Executive Producer: Alyssa Pankiw
 Creative Director: Nev Todorovic  
 Line Producer: Jason Aita  
 Assistants: Papi (Kyle Topping), Gabe Roberto, Eric Brazier, Alexander Mavian, Andrew Gabura
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90e3ee23-81e7-4e0a-8416-2e5907709f37.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127ceb0a-75d1-47ae-ba85-df76cc5f988a.jpg)
-![Matt couldn’t resist getting a frame in with Catherine!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e368ce-c7ea-4ba0-86dd-c58f3417cc01.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d1d35df03c6907e982953443a2ff93fe810e9da.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/60599d56f1f0daed60396a8810773cec6762f450.jpg)
+![Matt couldn’t resist getting a frame in with Catherine!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/502d9a267131af273d56802398e3eeb397dcad7a.jpg)
 
 All Images (c) Matt Barnes
 
