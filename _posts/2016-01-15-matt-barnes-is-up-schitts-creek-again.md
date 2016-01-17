@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T22:05:50.178Z'
+datePublished: '2016-01-16T22:05:50.270Z'
 dateModified: '2016-01-16T22:05:38.224Z'
 title: Matt Barnes is up Schitt’s Creek... again.
 author: []
