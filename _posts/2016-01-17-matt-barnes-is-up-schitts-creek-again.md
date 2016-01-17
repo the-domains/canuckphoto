@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T01:28:31.562Z'
-dateModified: '2016-01-17T01:28:26.413Z'
+datePublished: '2016-01-17T01:28:31.739Z'
+dateModified: '2016-01-17T01:28:31.143Z'
 title: "Matt Barnes is up Schitt's Creek... again."
 author: []
 sourcePath: _posts/2016-01-17-matt-barnes-is-up-schitts-creek-again.md
