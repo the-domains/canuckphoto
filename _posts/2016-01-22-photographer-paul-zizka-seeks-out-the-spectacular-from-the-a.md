@@ -16,7 +16,7 @@ keywords:
   - 30pm
   - cbc
 description: "Paul Ziska's art comes from some very hard-to-reach places. A professional mountain landscape and adventure photographer based in Banff, Alta., Zizka is happy to venture deep into the wilderness to find his best photos - even in the dead of winter."
-datePublished: '2016-01-22T18:02:39.213Z'
+datePublished: '2016-01-22T18:02:39.215Z'
 dateModified: '2016-01-22T18:02:36.575Z'
 author: []
 related: []
