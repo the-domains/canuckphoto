@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is a test post with several paragraphs and images. The crop, overlay, and filter boxes are all unchecked.'
-datePublished: '2016-01-23T03:31:54.387Z'
-dateModified: '2016-01-23T02:52:34.164Z'
+datePublished: '2016-01-23T03:52:16.673Z'
+dateModified: '2016-01-23T03:32:07.055Z'
 title: This is a test post
 author: []
 sourcePath: _posts/2016-01-23-this-is-a-test-post.md
@@ -28,9 +28,11 @@ _type: Article
 
 P1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam interdum accumsan purus quis sagittis. Maecenas ut sagittis erat. Maecenas tincidunt, nulla et commodo bibendum, eros dui vehicula est, at bibendum orci nisi non lectus. Integer non tempus dolor. In congue ullamcorper finibus. 
 > 
-> This is a block quote. Nunc ullamcorper augue ut augue posuere commodo. 
+> 
 
 ![image 2](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2638be04-9ce1-4290-8e82-c6c11467e77c.jpg)
+
+> This is a block quote. Nunc ullamcorper augue ut augue posuere commodo. 
 
 P2 Nunc consectetur magna eget dapibus lacinia. Etiam ullamcorper ut nisi id mattis. Donec ex urna, posuere a porttitor ut, placerat eu augue. Nullam sodales elit et lacus consectetur, sed volutpat elit venenatis. Pellentesque rutrum euismod viverra. In fringilla sed sapien non faucibus. Proin rhoncus dignissim nibh, varius faucibus eros pharetra rutrum. Quisque leo erat, volutpat at ultrices ut, porttitor sed diam.
 ![image 3](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56262e0b-5861-4163-8fa7-c3f883fcec26.jpg)
