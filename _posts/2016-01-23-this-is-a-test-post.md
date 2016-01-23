@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-23T02:52:21.742Z'
-dateModified: '2016-01-23T02:52:06.492Z'
+description: 'This is a test post with several paragraphs and images. The crop, overlay, and filter boxes are all unchecked.'
+datePublished: '2016-01-23T03:31:54.228Z'
+dateModified: '2016-01-23T02:52:34.164Z'
 title: This is a test post
 author: []
 sourcePath: _posts/2016-01-23-this-is-a-test-post.md
