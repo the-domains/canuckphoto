@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is a test post with several paragraphs and images. The crop, overlay, and filter boxes are all unchecked.'
-datePublished: '2016-01-23T03:52:17.054Z'
-dateModified: '2016-01-23T03:32:07.055Z'
+datePublished: '2016-01-23T16:46:00.830Z'
+dateModified: '2016-01-23T16:45:52.782Z'
 title: This is a test post
 author: []
 sourcePath: _posts/2016-01-23-this-is-a-test-post.md
