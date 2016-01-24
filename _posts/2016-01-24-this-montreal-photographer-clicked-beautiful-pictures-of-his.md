@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T01:40:00.840Z'
-dateModified: '2016-01-24T01:39:44.857Z'
+datePublished: '2016-01-24T18:27:42.923Z'
+dateModified: '2016-01-24T18:27:37.955Z'
 title: This Montreal Photographer Clicked Beautiful Pictures Of His Camera Shy Girlfriend
 author: []
+sourcePath: _posts/2016-01-24-this-montreal-photographer-clicked-beautiful-pictures-of-his.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-this-montreal-photographer-clicked-beautiful-pictures-of-his.md
-published: true
 url: this-montreal-photographer-clicked-beautiful-pictures-of-his/index.html
 _type: Article
 
@@ -29,7 +29,7 @@ Montreal-based photographer, Mikaël Theimer, wanted to take pictures of his bea
 "She hates to pose, and she hates to be in front of the camera. So this became a little game that we have. Whenever I see a scene I would love to photograph her in, she has to find a way to hide her face. I find it results in much more interesting pictures than just traditional portraits."
 
 Check out the results below!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2d62ec3166ac640b522f2fbf939a3745f0a82b5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/742ab800de4115db7628e188950adbe48a963ecb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8384488-2b18-484b-9732-db0eee49de4e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05031e693876823cde8257733d1ed7f3fa0f67c3.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1d96542b25d3e1cb633867a70b972c1dd56eb18.jpg)
