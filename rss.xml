@@ -4,11 +4,18 @@
         <description><![CDATA[Canuck Photo]]></description>
         <link>https://thegrid.ai/canuckphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 18:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 17:50:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canuckphoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Fuji X-Pro 2 - Hands on with Spencer Wynn]]></title>
+            <description><![CDATA[<article><h1>Fuji X-Pro 2 - Hands on with Spencer Wynn</h1><p>Toronto photojournalist Spencer Wynn talks about his experience with the new Fuji X-Pro 2 camera. You can view Spencer's photography at www.spencerwynn.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fbc9f85f48a2910cd384a4b506ae9b3a258c610.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=4fSuL4Qi-7Q</link>
+            <guid isPermaLink="false">e09f8673-f7d6-44f0-b712-d53b636b764f</guid>
+            <pubDate>Mon, 25 Jan 2016 17:50:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Montreal Photographer Clicked Beautiful Pictures Of His Camera Shy Girlfriend]]></title>
-            <description><![CDATA[<article><h1>This Montreal Photographer Clicked Beautiful Pictures Of His Camera Shy Girlfriend</h1><p>Montreal-based photographer, Mikaël Theimer, wanted to take pictures of his beautiful girlfriend Marion, but she refused to pose for him. So he decided instead to document all the different ways the camera shy Marion tried to dodge his camera.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/742ab800de4115db7628e188950adbe48a963ecb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This Montreal Photographer Clicked Beautiful Pictures Of His Camera Shy Girlfriend</h1><p>Montreal-based photographer, Mikaël Theimer, wanted to take pictures of his beautiful girlfriend Marion, but she refused to pose for him. So he decided instead to document all the different ways the camera shy Marion tried to dodge his camera.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cee1f18b7e871f99460bbcd14c1e9e210d82b08.jpg"></article>]]></description>
             <link>https://thegrid.ai/canuckphoto/this-montreal-photographer-clicked-beautiful-pictures-of-his/index.html</link>
             <guid isPermaLink="false">a4bd523c-23b6-4b4c-82b0-904f3db42e52</guid>
             <pubDate>Sun, 24 Jan 2016 18:27:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/saskatchewa-you-are-so-pretty-1.3395984</link>
             <guid isPermaLink="false">62737497-ec46-488f-bc83-012a6b584df4</guid>
             <pubDate>Mon, 11 Jan 2016 20:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We're on The Grid!]]></title>
-            <description><![CDATA[<article><h1>We're on The Grid!</h1><p>It's taken more than a year, but I just got access to The Grid Beta! I've read a lot of mixed reviews from beta users, so I'm keeping my expectations in check, but I'm still very excited to see what it can do!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c4af8e1114301b2fa8e6c74ca01e09ada84dbd2.png"></article>]]></description>
-            <link>https://thegrid.ai/canuckphoto/were-on-the-grid/index.html</link>
-            <guid isPermaLink="false">0b100d8f-ccbe-4ae8-a9a0-f3581e31efd9</guid>
-            <pubDate>Sun, 10 Jan 2016 19:18:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
