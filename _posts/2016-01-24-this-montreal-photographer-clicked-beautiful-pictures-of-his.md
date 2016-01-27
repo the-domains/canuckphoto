@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T18:27:42.929Z'
-dateModified: '2016-01-24T18:27:37.955Z'
+datePublished: '2016-01-27T17:51:22.253Z'
+dateModified: '2016-01-27T17:51:17.166Z'
 title: This Montreal Photographer Clicked Beautiful Pictures Of His Camera Shy Girlfriend
 author: []
 sourcePath: _posts/2016-01-24-this-montreal-photographer-clicked-beautiful-pictures-of-his.md
@@ -24,12 +24,14 @@ _type: Article
 ---
 # This Montreal Photographer Clicked Beautiful Pictures Of His Camera Shy Girlfriend
 
+## Why is there no picture on the home page for this post? This paragraph is h2\.
+
 Montreal-based photographer, Mikaël Theimer, wanted to take pictures of his beautiful girlfriend Marion, but she refused to pose for him. So he decided instead to document all the different ways the camera shy Marion tried to dodge his camera.
 
 "She hates to pose, and she hates to be in front of the camera. So this became a little game that we have. Whenever I see a scene I would love to photograph her in, she has to find a way to hide her face. I find it results in much more interesting pictures than just traditional portraits."
 
 Check out the results below!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/742ab800de4115db7628e188950adbe48a963ecb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cee1f18b7e871f99460bbcd14c1e9e210d82b08.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8384488-2b18-484b-9732-db0eee49de4e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05031e693876823cde8257733d1ed7f3fa0f67c3.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1d96542b25d3e1cb633867a70b972c1dd56eb18.jpg)
