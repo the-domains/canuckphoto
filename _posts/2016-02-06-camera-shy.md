@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T16:55:10.886Z'
-dateModified: '2016-02-06T16:55:05.739Z'
+datePublished: '2016-02-06T17:08:00.468Z'
+dateModified: '2016-02-06T17:07:52.336Z'
 title: Camera Shy
 author: []
+sourcePath: _posts/2016-02-06-camera-shy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-06-camera-shy.md
-published: true
 url: camera-shy/index.html
 _type: Article
 
