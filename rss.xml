@@ -4,8 +4,15 @@
         <description><![CDATA[Canuck Photo]]></description>
         <link>https://thegrid.ai/canuckphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 18:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 16:56:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canuckphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Camera Shy]]></title>
+            <description><![CDATA[<article><h1>Camera Shy</h1><p>Another multi-image test post</p></article>]]></description>
+            <link>https://thegrid.ai/canuckphoto/camera-shy/index.html</link>
+            <guid isPermaLink="false">864936ba-4f4d-41e7-b832-0d46e12aba7c</guid>
+            <pubDate>Sat, 06 Feb 2016 16:55:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fuji X-Pro 2 - Hands on with Spencer Wynn]]></title>
             <description><![CDATA[<article><h1>Fuji X-Pro 2 - Hands on with Spencer Wynn</h1><p>Toronto photojournalist Spencer Wynn talks about his experience with the new Fuji X-Pro 2 camera. You can view Spencer's photography at www.spencerwynn.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fbc9f85f48a2910cd384a4b506ae9b3a258c610.jpg"></article>]]></description>
@@ -64,7 +71,7 @@
         </item>
         <item>
             <title><![CDATA[Oh, Saskatchewan you are so pretty]]></title>
-            <description><![CDATA[<article><h1>Oh, Saskatchewan you are so pretty</h1><p>The beauty of our home is boundless. This fact has been extensively documented by amateur and professional photographers, videographers and astrophotographers alike. Here are some of the best, latest photographs that Saskatchewan people have shared with us during the first week of 2016!</p><img src="http://i.cbc.ca/1.3396029.1452286924!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ryan-starosta.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Oh, Saskatchewan you are so pretty</h1><p>The beauty of our home is boundless. This fact has been extensively documented by amateur and professional photographers, videographers and astrophotographers alike. Here are some of the best, latest photographs that Saskatchewan people have shared with us during the first week of 2016!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9414b37550adf639dc749d7cf4bb0232f8828e74.jpg"></article>]]></description>
             <link>http://www.cbc.ca/news/canada/saskatchewan/saskatchewa-you-are-so-pretty-1.3395984</link>
             <guid isPermaLink="false">62737497-ec46-488f-bc83-012a6b584df4</guid>
             <pubDate>Mon, 11 Jan 2016 20:07:37 GMT</pubDate>
