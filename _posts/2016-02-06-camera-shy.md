@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-06T17:08:00.468Z'
-dateModified: '2016-02-06T17:07:52.336Z'
+description: Another multi-image test post
+datePublished: '2016-03-17T18:42:06.802Z'
+dateModified: '2016-03-17T18:41:55.301Z'
 title: Camera Shy
 author: []
 sourcePath: _posts/2016-02-06-camera-shy.md
@@ -25,7 +25,6 @@ _type: Article
 # Camera Shy
 
 Another multi-image test post
-![Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fef8e465525cf815187a950ac7f2853405e0cf4d.jpg)
 ![Cap](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92cf9b66-fce8-4940-bf55-5047c5f9ebba.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da4b0f4aebe1f68f4e222752d72b3138fb01c3b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d663df32a5761565a2345528d0dcee0eb3ba16ba.jpg)
