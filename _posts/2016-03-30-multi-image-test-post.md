@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Multi-image test post\_"
-datePublished: '2016-03-30T18:13:46.185Z'
-dateModified: '2016-03-30T18:13:23.567Z'
+description: Multi-image test post
+datePublished: '2016-03-30T18:15:02.377Z'
+dateModified: '2016-03-30T18:13:54.470Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-30-multi-image-test-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-multi-image-test-post.md
-published: true
 url: multi-image-test-post/index.html
 _type: Article
 
