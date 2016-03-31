@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Yet another test post with more than one picture
-datePublished: '2016-03-31T19:05:25.609Z'
-dateModified: '2016-03-31T19:04:50.566Z'
+datePublished: '2016-03-31T19:06:36.423Z'
+dateModified: '2016-03-31T19:05:31.222Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-31-yet-another-test-post-with-more-than-one-picture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-yet-another-test-post-with-more-than-one-picture.md
-published: true
 url: yet-another-test-post-with-more-than-one-picture/index.html
 _type: Article
 
