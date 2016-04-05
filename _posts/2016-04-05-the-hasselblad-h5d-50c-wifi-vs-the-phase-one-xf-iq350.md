@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Before purchasing the Hasselblad H5D 50c WiFi last December, I did a ton of research and tried out both the H5D 50c WiFi and the Phase One XF/IQ350 camera systems before making any decisions.\_I realize there are a very small number of people out there that shoot with either of these systems or even care about a comparison of these two cameras. But, for those that do, here I will offer up my thoughts on these two state of the art camera systems. When I was doing research, I found nothing out there comparing the H5D and the Phase One XF directly. I found independent reviews of both but no comparisons. Hence, for those few making the move to medium format, what follows are my thoughts and experiences with both systems."
-datePublished: '2016-04-05T14:31:05.860Z'
-dateModified: '2016-04-05T14:30:32.030Z'
+datePublished: '2016-04-05T15:13:02.283Z'
+dateModified: '2016-04-05T15:12:14.136Z'
 title: THE HASSELBLAD H5D 50C WIFI VS. THE PHASE ONE XF IQ350
 author: []
 sourcePath: _posts/2016-04-05-the-hasselblad-h5d-50c-wifi-vs-the-phase-one-xf-iq350.md
@@ -38,9 +38,9 @@ As a side note here, I did not consider the Pentax 645Z, which uses the same 50 
 
 In comparing these camera systems, I will list the pros and cons of each camera for a variety of important features. Let's start out with the autofocus capabilities as that is a huge issue for all medium format cameras.
 
-##### AUTOFOCUS
+## AUTOFOCUS
 
-Autofocus is a feature that needs to be incredibly accurate when using cameras of this caliber. Because of the 50 MP resolution, and the extremely sharp lenses made by both manufacturers, missing focus by even a few millimeters can sometimes make the difference between getting the image or major frustration. Both manufacturers advertise the accuracy and reliability of their autofocus systems as a core feature. Both of these cameras also have a single autofocus point in the center of the viewfinder. Hence, to set your focus off-center you have to rely on the focus and recompose method. Both also have impressive viewfinders and built-in options to add a diopter adjustment to the viewfinder for those that don't want to wear glasses while shooting.
+##### Autofocus is a feature that needs to be incredibly accurate when using cameras of this caliber. Because of the 50 MP resolution, and the extremely sharp lenses made by both manufacturers, missing focus by even a few millimeters can sometimes make the difference between getting the image or major frustration. Both manufacturers advertise the accuracy and reliability of their autofocus systems as a core feature. Both of these cameras also have a single autofocus point in the center of the viewfinder. Hence, to set your focus off-center you have to rely on the focus and recompose method. Both also have impressive viewfinders and built-in options to add a diopter adjustment to the viewfinder for those that don't want to wear glasses while shooting.
 
 When I tested out the Phase One XF, I got only 7 images out 200 in focus using that camera's Honeybee autofocus system. It wasn't as if all of those 193 other images were way out of focus, but they weren't critically sharp where I intended for the focus to be. Some images were way off and some were only slightly off but they were off enough that it wasn't a useable image. I had the XF set up with the focus being initiated by holding down the shutter release half-way. Once focus was achieved you could then recompose the image and push the shutter all the way down to capture the image. I have since been told that the better method is to use a back-focusing method where you set a button on the back of the grip to initiate focus and use the shutter release to snap the photo. I did not have time to test this out so I hope some Phase One users can chime in here and give us their experiences using the back focusing method. I use this back focusing method with the H5D and it's True Focus technology and it works very well. Also, Phase One has a few options where you can set up the Hyperlocal distance settings for each lens, which allows you to optimize the amount of Depth of Field (relative to the infinity setting) and automatically recall this setting. I did not have time to play with this feature but that is a pretty nice feature to have when shooting with wide angle lenses.
 
@@ -52,7 +52,7 @@ In talking with a few Phase One photographers, whom I won't name, I heard them t
 
 The Clear winner here is the Hasselblad H5D.
 
-##### IMAGE QUALITY
+## IMAGE QUALITY
 
 Both cameras use the same 50-megapixel CMOS sensor, so you would assume that the image quality is fairly similar. In my experience, I found the images coming out of the Phase One XF/IQ350 to be a bit softer than the H5D 50c WiFi. I know there are a lot of people out there that swear by the Phase One backs so I was pretty surprised by the images I was comparing. I was also quite surprised at the huge amount of capture sharpening that Capture One applied to the images by default. This seemed to only highlight the softness of the images when I turned off the capture sharpening.
 
@@ -60,7 +60,7 @@ Since I did not shoot the exact same scenes with both cameras I won't show any c
 
 For this comparison, and at low ISOs, meaning anything around ISO 400 and below, I will call it a tie on the image quality. Though, I will say I preferred the image quality out of the 50c WiFi over the IQ350\.
 
-##### HIGH ISO NOISE
+## HIGH ISO NOISE
 
 Because both of these cameras incorporate the first CMOS sensor for medium format cameras, there was a lot of hoopla about how great they are at high ISOs. As we covered in the last section on image quality, at their lowest ISO settings, the image quality was a tie. At higher ISOs, I found the H5D 50c WiFi to be significantly better than the IQ350\. As shown below, at ISO 6400, the H5D 50c WiFi (left) shows significantly less noise than the IQ350 (right). At ISO 6400, the IQ350 has a strange blotchy pattern to it that is quite ugly, while the H5D 50c WiFi has a grain-like structure to the noise that is much nicer and easier to deal with when using noise reduction software.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8423653-7c21-493f-b300-a4d0cdd02aeb.jpg)
@@ -71,7 +71,7 @@ In talking with a Phase One user, he told me that with the IQ350 he never goes a
 
 In my testing, the Hasselblad clearly outshines the Phase One IQ350 at high ISOs.
 
-##### **ERGONOMICS**
+## ERGONOMICS
 
 Both of these cameras are gorgeous, well made pieces of art. The Phase One XF is clearly the more modern looking of the two and it is a marvel of engineering. The touch screen LCDs on the XF give it a sleek, clean look that is very enticing. I will get into the user interface and touch screen displays in the next section. Here, I will discuss the ergonomics of the two cameras including how they feel, how they are balanced and the control layout.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/496f68c5-c162-4f65-886a-3b91266d96e9.jpg)
@@ -82,7 +82,7 @@ In the hand, the noticeable weight difference of the XF and the larger lenses, m
 
 In terms of the control layout, I am not sure I had enough time with the Phase One XF to really decisively critique this part of the camera. In my time with it, I found it easy to adjust the big three exposure options: ISO, Shutter Speed and Aperture. The XF has quite a few buttons and many of them can be customized so with time you could customize the buttons to your liking. Because of the touch screen interface, I was constantly finding that I changed settings on the top LCD or the back without even knowing I had changed anything. That was annoying. With the H5D, the ergonomics seem to have been worked out more thoroughly. Without having to take your eye away from the viewfinder, it seemed fairly easy to figure out which button you are touching and make adjustments on the fly.
 
-##### USER INTERFACE
+## USER INTERFACE
 
 As I just mentioned in the last section, the touch screen interface on the XF is whiz-bang cool and looks phenomenal, but in practice I found it to be less practical than the old-school buttons on the H5D. Of course, you can lock the touch screen out so that you won't accidentally change anything but then if you actually need to change something you have to undo that to access those settings again. I have talked with a few other photographers that have had the same experience with the touch screen displays on the XF. With the H5D, you can change settings without moving your eye away from the viewfinder. With the XF, unless you have certain functions set up with a custom button this is difficult if not impossible to do. Need the mirror up? With the H5D you don't have to take your eye away from the viewfinder. Need to do that on the XF, you have to very precisely touch the top LCD and you'll have to look at it to do so.
 
@@ -99,9 +99,9 @@ As for the WiFi option on both of these cameras, I have only tested the Hasselbl
 
 In terms of looks alone, the Phase One wins this category hands down but when you add in usability, I feel like the Hasselblad is more intuitive. Hence, what you shoot and how you work will determine which of these user interfaces will work best for your needs. At this price point, no one just goes out and buys one of these cameras without trying out a few different options--or at least I would hope they don't. This is one of those things that is a personal preference. Some will prefer the Phase One others will prefer the Hasselblad.
 
-##### FLASH SYNC SPEEDS
+## FLASH SYNC SPEEDS
 
-One of the best features of both of these camera systems is that they can sync with flash at high shutter speeds. This is a big reason why professionals choose a medium format system over 35mm DSLRs. To achieve this, the lenses for both systems have built in central leaf shutters. The H5D can sync at up to 1/800th second and the Phase One can sync up to 1/1600th second with certain lenses. The caveat with the Phase one, as told to me by the rep I worked with, is that the larger lenses have such huge leaf shutters they can really only sync up to 1/1000th second, not the 1/1600th second some of the smaller lenses can. You won't find this caveat in the Phase One marketing materials for the XF or in any of the marketing materials for the Schneider-Kreuznach lenses. The rep told me that especially the larger new "Blue Line" lenses, like the new 35mm f/3.5 LS  and the 120mm f/4 LS Macro, will not really sync above 1/100th second. Interestingly, on the Phase One website, the specs say that these lenses can sync at up to 1/1600th second. I'd love to hear from Phase One XF users who have tested these new lenses. If this is the case, then this makes the systems a bit more equal on the flash sync speeds.
+##### One of the best features of both of these camera systems is that they can sync with flash at high shutter speeds. This is a big reason why professionals choose a medium format system over 35mm DSLRs. To achieve this, the lenses for both systems have built in central leaf shutters. The H5D can sync at up to 1/800th second and the Phase One can sync up to 1/1600th second with certain lenses. The caveat with the Phase one, as told to me by the rep I worked with, is that the larger lenses have such huge leaf shutters they can really only sync up to 1/1000th second, not the 1/1600th second some of the smaller lenses can. You won't find this caveat in the Phase One marketing materials for the XF or in any of the marketing materials for the Schneider-Kreuznach lenses. The rep told me that especially the larger new "Blue Line" lenses, like the new 35mm f/3.5 LS  and the 120mm f/4 LS Macro, will not really sync above 1/100th second. Interestingly, on the Phase One website, the specs say that these lenses can sync at up to 1/1600th second. I'd love to hear from Phase One XF users who have tested these new lenses. If this is the case, then this makes the systems a bit more equal on the flash sync speeds.
 
 The bigger question is will either camera work with your flashes. We had a hell of a time getting the Phase One XF to sync at anything above 1/250th second with my Elinchrom strobes. In the end it was a matter of the transmitters we tried not being up to task--and we tried three different brand transmitters. The Phase One dealer had never worked with Elinchrom strobes so they did not have any experience to help out on this front. After doing some research, I finally figured out what the issues were and found that with the new Elinchrom Skyport Plus HS transmitter in Speed mode the XF would trigger the Elinchrom strobes just fine. When using the PocketWizard transceivers, the flash triggering was very unreliable and I am still not sure why that was the case as PocketWizards have been very reliable for me in the past. The XF has a Profoto trigger built into the camera so if you shoot with Profoto strobes you should have very few issues. From what the rep told me, the Broncolor transmitter and strobes also work well with the XF.
 
@@ -109,17 +109,17 @@ By comparison, the H5D worked perfectly with my Elinchrom gear all the way up to
 
 The XF wins here, if you are using lenses that can actually sync up to 1/1600th second.
 
-##### SHUTTER SPEED RANGE
+## SHUTTER SPEED RANGE
 
 The Phase One XF has a shutter speed range of 60 minutes to 1/4000th second. The H5D has a range of 34 minutes to 1/800th second. The Phase One XF has a wider range of shutter speeds due to the fact that it has a focal plane shutter built into the camera body that extends the shutter range beyond the 1/1600th second leaf shutter lenses to 1/4000th second. I can certaily see some scenarios where this would be very useful--like trying to get sharp images while handholding the camera or wanting to stop fast action. So far, I haven't had any issue with the range of shutter speeds on the H5D though I do shoot at or near the 1/800th second shutter speed when handholding the camera for the sharpest possible images. Because the H5D is a tad lighter and better balanced than the XF, I do feel like I can get sharp images at shutter speeds down to 1/250th second whereas on the XF that would be seriously pushing the envelope.
 
 The Phase One XF wins in this category.
 
-##### BATTERY LIFE
+## BATTERY LIFE
 
 I didn't have time to test out the battery life of the XF system. I can get about a half day of shooting done with the H5D before I need to replace the battery. That isn't bad considering how large the components of this camera are and that there is only one battery to run everything. The XF has two batteries so I would expect them to last longer than the H5D's single battery. In the end, this is a moot point anyway because if you aren't shooting tethered you would take at least one extra set of batteries.
 
-##### RELIABILITY
+## RELIABILITY
 
 Reliability is always a huge issue for me as an adventure sports photographer. I pound my cameras and I wanted to make sure whatever I purchased could take a licking and keep on ticking. Of course, with cameras in this price range I am going to treat them well. If it is really rough weather or difficult conditions I will take my Nikons, which seem to be able to handle anything mother nature throws at them. I spoke with several different photographers about each of these cameras and specifically about how reliable they were on a variety of assignments. On the Hasselblad side, none of them had ever had to send their cameras in for any repairs of any kind. On the Phase One side, almost everyone said they had to send in their cameras and/or lenses a few times a year for issues. That was a wake up call for me. As it turns out there is a reason the Phase One reps boast about their policy of offering loaners while your camera is being repaired -- because most owners have to deal with this issue.
 
@@ -127,7 +127,7 @@ There is also the issue of the camera locking up while on a shoot. The Hasselbla
 
 As a pro, you rely on your gear. If it isn't reliable, especially when you have to pay this kind of money for it, then that is a huge issue. The Hasselblad wins massively here on this front.
 
-##### LENSES
+## LENSES
 
 As for lenses, both Hasselblad and Phase One offer a pretty compelling line up of quality glass. The Hasselblad lenses are designed in-house by Hasselblad and are manufactured by Fujinon, who is a less well known, but still a renowned lens manufacturer. It is notable that the leaf shutter mechanism is made by Hasselblad and then assembled into the HC lenses by Fujinon. They note that the Fujinon lenses are just as sharp if not better than the legendary V series lenses made by Carl Zeiss. Phase One's lenses are made by Schneider-Kreuznach of Germany. Schneider-Kreuznach is another legendary lens manufacturer and the Phase One lenses are stellar by any measure. Phase One recently introduced the "Blue Line" lenses, which they say are ready for the demands of 100+ MP cameras.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b614e199-5486-4755-b217-39186e9eb997.jpg)
@@ -138,7 +138,7 @@ I prefer the Hasselblad lenses as they aren't quite as huge as the Phase One LS 
 
 In terms of lenses, my preferences aside, I'd call this one a draw.
 
-##### SOFTWARE
+## SOFTWARE
 
 If we are strictly discussing the software options offered by Hasselblad and Phase One then this is an easy choice. Phase One's Capture One software is far superior to Hasselblad's Phocus software. Aside from Adobe Lightroom or Photoshop's Adobe Camera Raw, Capture One is the only really professional alternative raw processing software on the market. Capture One has become much more popular since the demise of Apple's Aperture. To that point, there are quite a few photographers shooting only with 35mm DSLRs that swear by Capture One. I have tried out Capture One, because I was curious, and I found it quite robust but because I have used Lightroom for a long, long time I wasn't as enamored with it as many other photographers seem to be.
 
@@ -146,7 +146,7 @@ Luckily for Hasselblad users, Hasselblad has given the folks at Adobe their enti
 
 I'd say in terms of software, because Hasselblad has worked with Adobe, it is a tie on this one.
 
-##### SUMMING UP
+## SUMMING UP
 
 Let's get real here for a second. Each of these cameras offer incredible image quality. There are top-end pro photographers working with each brand who are creating incredible images. These cameras are just tools and as such, any photographer using these tools has to learn how to exploit the strengths and weaknesses of each camera system they use. That is just part of the game whether shooting with 35mm DSLRs or a medium format camera.
 
