@@ -4,8 +4,15 @@
         <description><![CDATA[Canuck Photo]]></description>
         <link>https://thegrid.ai/canuckphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 19:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 13:47:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canuckphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE HASSELBLAD H5D 50C WIFI VS. THE PHASE ONE XF IQ350]]></title>
+            <description><![CDATA[<article><h1>THE HASSELBLAD H5D 50C WIFI VS. THE PHASE ONE XF IQ350</h1><p>Before purchasing the Hasselblad H5D 50c WiFi last December, I did a ton of research and tried out both the H5D 50c WiFi and the Phase One XF/IQ350 camera systems before making any decisions. I realize there are a very small number of people out there that shoot with either of these systems or even care about a comparison of these two cameras. But, for those that do, here I will offer up my thoughts on these two state of the art camera systems. When I was doing research, I found nothing out there comparing the H5D and the Phase One XF directly. I found independent reviews of both but no comparisons. Hence, for those few making the move to medium format, what follows are my thoughts and experiences with both systems.</p></article>]]></description>
+            <link>https://thegrid.ai/canuckphoto/the-hasselblad-h5d-50c-wifi-vs-the-phase-one-xf-iq350/index.html</link>
+            <guid isPermaLink="false">90c67904-3785-40e9-8fd1-c34b65d446f0</guid>
+            <pubDate>Tue, 05 Apr 2016 13:46:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yet another test post with more than one picture]]></title>
             <description><![CDATA[<article><h1>Yet another test post with more than one picture</h1><p>Showroom Caption</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef0a5292-2617-4c37-bc09-dc66ba05f30a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/canuckphoto/the-blacksmiths-2/index.html</link>
             <guid isPermaLink="false">043d1524-d4be-40a6-a82b-8a141d674860</guid>
             <pubDate>Mon, 04 Apr 2016 15:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pontypool photographer's striking Arctic photo to be used in calendar]]></title>
-            <description><![CDATA[<article><h1></h1><p>A Pontypool native who has photographed Canada's far north for the better part of a decade is aiming to capitalize on a photo he took that went viral late last month, generating an explosion of media attention.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ff968541c0e3b45d10204c08a483c9b6b7e196a.jpg"></article>]]></description>
-            <link>http://www.thepeterboroughexaminer.com/2016/01/06/pontypool-photographers-striking-arctic-photo-to-be-used-in-calendar</link>
-            <guid isPermaLink="false">c007569c-f94a-4310-a158-e582280f34f6</guid>
-            <pubDate>Mon, 11 Jan 2016 21:45:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
