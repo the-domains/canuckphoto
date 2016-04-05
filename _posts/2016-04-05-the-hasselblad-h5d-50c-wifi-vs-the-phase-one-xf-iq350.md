@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Before purchasing the Hasselblad H5D 50c WiFi last December, I did a ton of research and tried out both the H5D 50c WiFi and the Phase One XF/IQ350 camera systems before making any decisions.\_I realize there are a very small number of people out there that shoot with either of these systems or even care about a comparison of these two cameras. But, for those that do, here I will offer up my thoughts on these two state of the art camera systems. When I was doing research, I found nothing out there comparing the H5D and the Phase One XF directly. I found independent reviews of both but no comparisons. Hence, for those few making the move to medium format, what follows are my thoughts and experiences with both systems."
-datePublished: '2016-04-05T15:13:02.283Z'
-dateModified: '2016-04-05T15:12:14.136Z'
+datePublished: '2016-04-05T15:24:28.170Z'
+dateModified: '2016-04-05T15:19:04.494Z'
 title: THE HASSELBLAD H5D 50C WIFI VS. THE PHASE ONE XF IQ350
 author: []
 sourcePath: _posts/2016-04-05-the-hasselblad-h5d-50c-wifi-vs-the-phase-one-xf-iq350.md
