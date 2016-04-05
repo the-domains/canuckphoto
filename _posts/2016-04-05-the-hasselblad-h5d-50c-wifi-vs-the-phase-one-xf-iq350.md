@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Before purchasing the Hasselblad H5D 50c WiFi last December, I did a ton of research and tried out both the H5D 50c WiFi and the Phase One XF/IQ350 camera systems before making any decisions.\_I realize there are a very small number of people out there that shoot with either of these systems or even care about a comparison of these two cameras. But, for those that do, here I will offer up my thoughts on these two state of the art camera systems. When I was doing research, I found nothing out there comparing the H5D and the Phase One XF directly. I found independent reviews of both but no comparisons. Hence, for those few making the move to medium format, what follows are my thoughts and experiences with both systems."
-datePublished: '2016-04-05T13:46:57.308Z'
-dateModified: '2016-04-05T13:46:44.647Z'
+datePublished: '2016-04-05T14:08:14.250Z'
+dateModified: '2016-04-05T14:07:34.669Z'
 title: THE HASSELBLAD H5D 50C WIFI VS. THE PHASE ONE XF IQ350
 author: []
+sourcePath: _posts/2016-04-05-the-hasselblad-h5d-50c-wifi-vs-the-phase-one-xf-iq350.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-the-hasselblad-h5d-50c-wifi-vs-the-phase-one-xf-iq350.md
-published: true
 url: the-hasselblad-h5d-50c-wifi-vs-the-phase-one-xf-iq350/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 # THE HASSELBLAD H5D 50C WIFI VS. THE PHASE ONE XF IQ350
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f7fe4d5-e271-4d01-b0ce-d5cb86c6b3a4.jpg)
 
-By:Michael Clark
+_By: Michael Clark_
 
 Before purchasing the Hasselblad H5D 50c WiFi last December, I did a ton of research and tried out both the H5D 50c WiFi and the Phase One XF/IQ350 camera systems before making any decisions. I realize there are a very small number of people out there that shoot with either of these systems or even care about a comparison of these two cameras. But, for those that do, here I will offer up my thoughts on these two state of the art camera systems. When I was doing research, I found nothing out there comparing the H5D and the Phase One XF directly. I found independent reviews of both but no comparisons. Hence, for those few making the move to medium format, what follows are my thoughts and experiences with both systems.
 
