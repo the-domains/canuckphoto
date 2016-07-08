@@ -4,8 +4,15 @@
         <description><![CDATA[Canuck Photo]]></description>
         <link>https://thegrid.ai/canuckphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 18:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 18:14:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canuckphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alberta's Northern Lights]]></title>
+            <description><![CDATA[<article><h1>Alberta's Northern Lights</h1><p>Watch this stunning time-lapse video made up of more than 6500 photos of the Northern Lights over the Rockies of Southern Alberta. It took the photographer Richard Gottardo more that two years to capture all the images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bbd351f264de5dcf6e3c94cd0155115088a16ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/canuckphoto/albertas-northern-lights/index.html</link>
+            <guid isPermaLink="false">42f2bc3b-6792-4aa8-a390-f47f689fc34a</guid>
+            <pubDate>Fri, 08 Jul 2016 18:14:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yet another test post with more than one picture]]></title>
             <description><![CDATA[<article><h1>Yet another test post with more than one picture</h1><p>Showroom  Description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef0a5292-2617-4c37-bc09-dc66ba05f30a.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://www.youtube.com/watch?v=4fSuL4Qi-7Q</link>
             <guid isPermaLink="false">e09f8673-f7d6-44f0-b712-d53b636b764f</guid>
             <pubDate>Mon, 25 Jan 2016 17:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alberta's Northern Lights]]></title>
-            <description><![CDATA[<article><h1>Alberta's Northern Lights</h1><p>Watch this stunning time-lapse video made up of more than 6500 photos of the Northern Lights over the Rockies of Southern Alberta. It took the photographer Richard Gottardo more that two years to capture all the images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a741d03c8088f321133666ee39740ced0e7072.png"></article>]]></description>
-            <link>https://thegrid.ai/canuckphoto/albertas-northern-lights/index.html</link>
-            <guid isPermaLink="false">42f2bc3b-6792-4aa8-a390-f47f689fc34a</guid>
-            <pubDate>Thu, 14 Jan 2016 00:48:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photographer shares action shots of raptor neighbours near Unity, Sask.]]></title>
